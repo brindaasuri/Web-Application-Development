@@ -16,7 +16,7 @@ Longhorn Bank & Trust is a made-up Austin-area banking and investment firm trans
 - Data Security & Validation – Prevents unauthorized access, supports encrypted transactions
 
 ### Tech Stack
-Backend: C# (.NET MVC)
-Database: SQL Server (hosted on Azure)
-Frontend: HTML, CSS, JavaScript
-Hosting: Microsoft Azure
+Backend: C# (.NET MVC),
+Database: SQL Server (hosted on Azure),
+Frontend: HTML, CSS, JavaScript,
+Hosting: Microsoft Azure,
